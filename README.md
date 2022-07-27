@@ -61,5 +61,18 @@ BODY raw:
 	"video_url":"string"
 
 }
+
+Response - example:
+{
+    "success": true,
+    "message": "Video information.",
+    "data": {
+        "author": "Chris Luno",
+        "title": "berlin rooftop melodic house mix",
+        "thumbnail_url": "https://i.ytimg.com/vi/SioOoI7YQtI/hqdefault.jpg"
+    }
+}
+
 ```
+
 
