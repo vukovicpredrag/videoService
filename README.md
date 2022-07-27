@@ -24,7 +24,7 @@ composer install
 ```
 
 
-##Configuration of the database  // SKIP THIS STEP - for now, this project does not need a database
+##Configuration of the database  // <b>SKIP THIS STEP</b> - for now, this project does not need a database
 Create a copy of your .env file
 
 ```bash
@@ -75,4 +75,11 @@ Response - example:
 
 ```
 
+## What else could be done
+
+● Expand respnse, add more information. <br />
+● Provide support for other video platforms. <br />
+● For a more user-friendly testing environment, create a fornted part (input for video URL with API response)<br />
+● Crate DB and store API respnse; <br />
+● Platform for data handling (Search by title, author, etc...);
 
